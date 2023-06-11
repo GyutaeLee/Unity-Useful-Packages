@@ -4,3 +4,6 @@
 [submodule "utility-package"]
 	path = utility-package
 	url = https://github.com/GyutaeLee/Unity-Useful-Packages.git
+[submodule "ui-package"]
+	path = ui-package
+	url = https://github.com/GyutaeLee/Unity-Useful-Packages.git
