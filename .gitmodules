@@ -1,0 +1,6 @@
+[submodule "sound-package"]
+	path = sound-package
+	url = https://github.com/GyutaeLee/Unity-Useful-Packages.git
+[submodule "utility-package"]
+	path = utility-package
+	url = https://github.com/GyutaeLee/Unity-Useful-Packages.git
